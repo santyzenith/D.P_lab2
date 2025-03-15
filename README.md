@@ -1,4 +1,9 @@
-# Lab 2: Kafka for Data Streaming
+
+# Lab 2: Kafka
+
+https://github.com/user-attachments/assets/84f1fa25-f527-4805-b573-8aa55fc2b31f
+
+ for Data Streaming
 
 In this lab, you will gain hands-on experience with Apache Kafka, a distributed streaming platform that plays a key role in processing large-scale real-time data. You will establish a connection to a Kafka broker, produce and consume messages, and explore Kafka command-line tools. This lab will prepare you for your group project, where you'll work with Kafka streams. 
 
